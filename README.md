@@ -8,14 +8,18 @@ A hook is the opening moment of a short video, roughly the first one to three se
 
 ## What is inside
 
-- `01-the-first-three-seconds.md` why the opening decides everything.
-- `02-hook-types.md` question, contrarian, result-first, and pattern interrupt.
-- `03-retention-after-the-hook.md` keeping the viewer once they have stayed.
-- `04-hook-patterns-and-examples.md` reusable opening patterns to adapt.
+- [01-the-first-three-seconds.md](01-the-first-three-seconds.md) why the opening decides everything.
+- [02-hook-types.md](02-hook-types.md) question, contrarian, result-first, and pattern interrupt.
+- [03-retention-after-the-hook.md](03-retention-after-the-hook.md) keeping the viewer once they have stayed.
+- [04-hook-patterns-and-examples.md](04-hook-patterns-and-examples.md) reusable opening patterns to adapt.
 
 ## The stance
 
 This reference treats the hook as a promise, not a trick. The opening must earn attention and then the rest of the video must pay off what the opening implied. A hook that overpromises and underdelivers trains viewers to distrust you, so the goal is a true, compelling opening, not bait.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
